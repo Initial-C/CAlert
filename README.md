@@ -9,7 +9,7 @@
 
  Module | Address | Version | Date | Author
 :------:|:-------:|:-------:|:----:|:-----:|
-CAlert |  https://github.com/Initial-C/CAlert.git | 0.0.1 | 2016.10 | InitialC
+CAlert |  https://github.com/Initial-C/CAlert.git | 0.0.2| 2016.10 | InitialC
 
 ## Example
 
