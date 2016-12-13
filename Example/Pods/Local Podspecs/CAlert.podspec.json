@@ -1,0 +1,23 @@
+{
+  "name": "CAlert",
+  "version": "0.1.0",
+  "summary": "This a short description of CAlert.",
+  "description": "TODO: It is easy to use, support for custom pop tips.",
+  "homepage": "https://coding.net/u/InitialC/p/CAlert/git/blob/master/README.md",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Initial-C-William Chang": "iwilliamchang@outlook.com"
+  },
+  "source": {
+    "git": "https://git.coding.net/InitialC/CAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CAlert/Classes/**/*",
+  "requires_arc": true
+}

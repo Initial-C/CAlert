@@ -1,0 +1,16 @@
+PODS:
+  - CAlert (0.1.0)
+
+DEPENDENCIES:
+  - CAlert (from `../`)
+
+EXTERNAL SOURCES:
+  CAlert:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CAlert: f33a01393e78004cfffee652fa8031f62ccf07a0
+
+PODFILE CHECKSUM: 14a54dea4fe732f9fb20f8155ed56a70272811db
+
+COCOAPODS: 1.1.0

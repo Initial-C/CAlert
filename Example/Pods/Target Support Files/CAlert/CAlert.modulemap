@@ -1,0 +1,6 @@
+framework module CAlert {
+  umbrella header "CAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
